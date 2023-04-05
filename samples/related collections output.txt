@@ -1,0 +1,17 @@
+<item><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple"
+              xlink:show="new" xlink:actuate="onRequest"
+              xlink:href="https://txarchives.org/ttusw/finding_aids/01423.xml">
+              Pecos River Compact Commission (Texas) Records, 1979.</extref></item>
+            
+<item><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple"
+              xlink:show="new" xlink:actuate="onRequest"
+              xlink:href="https://txarchives.org/ttusw/finding_aids/20284.xml">
+              Public Information Photograph Collection, 1923-1977.</extref></item>
+
+<item><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" 
+              xlink:href="http://oralhistory.swco.ttu.edu/index.php?title=Wilson,_Mrs_J_C_1975-09-24">
+              Mrs. J. C. Wilson oral history interview [abstract, sound recording], September 24, 1975.</extref></item>
+            
+<item><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" 
+              xlink:href="http://oralhistory.swco.ttu.edu/index.php?title=Couch,_Mr_and_Mrs_Joseph_E_and_Mrs_J_C_Wilson_1975-09-24">
+              Mr. and Mrs. Joseph E. Couch and Mrs. J. C. Wilson oral history interview [abstract, sound recording], September 24, 1975.</extref></item>
