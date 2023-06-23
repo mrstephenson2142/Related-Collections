@@ -28,8 +28,11 @@ def convert_to_xml(csv_file):
         v_title = str(item[0]).strip() if item[0] else None
         v_url = str(item[1]).strip() if item[1] else None
         item_elem = ET.SubElement(root, "item")
-        extref_elem = ET.SubElement(item_elem, "extref", {"xmlns:xlink": "http://www.w3.org/1999/xlink", "xlink:type": "simple", "xlink:show": "new", "xlink:actuate": "onRequest", "xlink:href": v_url})
-        extref_elem.text = v_title
+        if v_url == None:
+            item_elem.text = v_title
+        else:
+            extref_elem = ET.SubElement(item_elem, "extref", {"xmlns:xlink": "http://www.w3.org/1999/xlink", "xlink:type": "simple", "xlink:show": "new", "xlink:actuate": "onRequest", "xlink:href": v_url})
+            extref_elem.text = v_title
 
 
 ## Start 
