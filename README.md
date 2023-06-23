@@ -8,7 +8,7 @@
 2. Install pyinstaller
     - `pip install pyinstaller`
 3. Create a standalone executable file using pyinstaller
-    -  `pyinstaller --onefile your_script_name.py`
+    -  `pyinstaller --onefile --name name_0_0_1 your_script_name.py`
 4. The executable file will be created in a dist directory in the same location as your script
 5. Distribute the executable file to users who don't have Python installed
 
